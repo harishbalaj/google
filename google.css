@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.goo{
+    margin: auto;
+    width: 50%;
+    padding-top: 100px;
+    text-align: center;
+}
+.goo input{
+    border-radius: 50px;
+    padding: 5px;
+    box-sizing: border-box;
+    width:300px;
+}
+.goo input>:placeholder-shown{
+    padding-left: 10px;
+}
